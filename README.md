@@ -13,3 +13,6 @@ This project focuses on building a weather prediction model using a machine lear
 - **Data Preprocessing**: The data is cleaned and processed for model training.
 - **Model Training**: A machine learning model (i.e., Linear Regression) is used to predict weather parameters.
 - **Model Evaluation**: Evaluates the model using metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R²).
+
+## Model
+
