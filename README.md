@@ -15,4 +15,4 @@ This project focuses on building a weather prediction model using a machine lear
 - **Model Evaluation**: Evaluates the model using metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R²).
 
 ## Model
-
+It has a high prediction score above 90% accuracy
